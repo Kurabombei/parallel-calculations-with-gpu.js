@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "gpu.js": "^2.11.3",
+    "mathjs": "^9.4.0",
+    "numeric": "^1.2.6"
+  }
 }
